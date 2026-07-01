@@ -6,19 +6,23 @@ Em transição de carreira, com experiência em análise de dados e gestão de i
 
 🎓 Graduada e Pós-graduada na área de saúde pela Universidade Federal do Rio de Janeiro. 
 
-👩🏻‍💻 Em formação técnica contínua, atualmente realizando o curso profissionalizante Analista de Dados, pela Escola Britânica de Artes Criativas e Tecnologia, sigo em constante aprendizado!
+👩🏻‍💻 Em formação técnica contínua, atualmente realizando o curso profissionalizante Analista de Dados, sigo em constante aprendizado!
 
 ✨ Habilidades e Competências ✨
 
 🛠️ Hard Skills
 
-Noções em Tecnologias - Excel | Power BI | Lógica de programação | SQL | HTML | R | Python | JavaScript | Banco de Dados | Análises estatísticas | Dashboards | Visualização de Dados – Alura - 2025 - Cursando
+Visualização de Dados como Instrumento para a apropriação dos Dados e Democratização da Informação - Escola Nacional de Ciências Estatísticas (ENCE) - 2026
 
-Lógica de programação: mergulhe na programação com JavaScript - Alura - 2025 - Concluído
+Analista de Dados - Escola Britânica de Artes Criativas e Tecnologia (EBAC) - 2026
 
-Bootcamp em Data Science - Oracle Next Education (ONE) + Alura - 2025 - Cursando
+Noções em Tecnologias - Excel | Power BI | Lógica de programação | SQL | HTML | R | Python | JavaScript | Banco de Dados | Análises estatísticas | Dashboards | Visualização de Dados – Alura - 2025 
 
-Idiomas - Inglês Intermediário - CCAA - 2009 - Concluído
+Lógica de programação: mergulhe na programação com JavaScript - Alura - 2025 
+
+Bootcamp em Data Science - Oracle Next Education (ONE) + Alura - 2025 
+
+Idiomas - Inglês Avançado - EF SET English Certificate 62/100 (C1 Advanced) - 2025
 
 🧠 Soft Skills
 
