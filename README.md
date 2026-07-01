@@ -1,12 +1,12 @@
 Olá, eu sou Eliete Souza!✨
 
-🎯 Cientista de Dados em formação
+🎯 Analista de Dados em formação
 
 Em transição de carreira, com experiência em análise de dados e gestão de informações para o setor saúde. Noções básicas de Lógica de programação e linguagens como R e Python.
 
 🎓 Graduada e Pós-graduada na área de saúde pela Universidade Federal do Rio de Janeiro. 
 
-👩🏻‍💻 Em formação técnica contínua, atualmente estou cursando minha segunda graduação, Tecnologia em Ciência de Dados, sigo em constante aprendizado!
+👩🏻‍💻 Em formação técnica contínua, atualmente realizando o curso profissionalizante Analista de Dados, pela Escola Britânica de Artes Criativas e Tecnologia, sigo em constante aprendizado!
 
 ✨ Habilidades e Competências ✨
 
@@ -46,8 +46,7 @@ Suporte às equipes no acompanhamento de projetos
 
 📍 Sobre mim
 
-Mãe da Luana, que me inspira e motiva todos os dias! 💞 Apaixonada por transformar dados em informação! Gosto de buscar soluções para desafios complexos. Tenho facilidade para me adaptar a novos ambientes e desenvolver novas competências. Estou sempre em busca de adquirir conhecimentos e aplicar a análise de dados para gerar soluções que impactam positivamente a vida das pessoas! ✨
-
+Mãe da Luana, que me inspira e motiva todos os dias! 💞 Apaixonada por transformar dados em informação! Gosto de buscar soluções para desafios complexos. Tenho facilidade para me adaptar a novos ambientes e desenvolver novas competências. Estou sempre em busca de adquirir conhecimentos e aplicar a análise de dados para gerar insights estratégicos e melhoria contínua! ✨
 📫 How to reach me: https://www.linkedin.com/in/elietesouza/
 
 <!---
